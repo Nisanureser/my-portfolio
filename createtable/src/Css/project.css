@@ -1,0 +1,71 @@
+.project-main{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center; /* Öğeleri yatay olarak ortalar */
+    margin-top: 20px;
+    
+
+}
+.projestyle{
+   height: 450px;
+   width: 450px;
+   border: 3px solid rgb(10, 65, 86);
+    border-radius: 7px;
+    margin: 5px;
+    padding: 5px;
+
+}
+
+
+.projestyle h3{
+    text-align: center;
+    font-weight: inherit;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+
+   background-color: rgb(10, 65, 86);
+   color: white;
+   
+
+} 
+.projestyle img{
+    display: block;
+    margin: auto;
+    padding-top: 25px;
+   
+
+}
+.projestyle .link {
+    font-size: 15px;
+    text-align: right;
+    font-weight: bold;
+}
+.link a:hover{
+    background-color: white;
+    color: rgb(10, 65, 86);
+    border-radius: 7px;;
+    text-decoration: none;
+    padding: 15px;
+  
+}
+.link a{
+    background-color:rgb( 10 ,65 ,86);
+    color:white;
+    border-radius: 8px;;
+    text-decoration: none;
+    padding: 6px;
+}
+
+.projestyle h5{
+    text-align: center;
+    font-family: 'Cambria, Cochin, Georgia, Times, 'Times New Roman', serif';
+    font-weight: inherit;
+    font-size: 13px;
+    padding-left: 52px;
+    padding-bottom: 10px;
+   width: 350px;
+   height: 117px;
+
+
+}
