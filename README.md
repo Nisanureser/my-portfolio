@@ -11,6 +11,5 @@ This project is a simple and responsive **React app** designed to display a list
   - Image preview
   - Title
   - Short explanation
-  - "Detail" link
 - 🎨 Styled with custom CSS 
 - ⚛️ Built using React functional components and props
