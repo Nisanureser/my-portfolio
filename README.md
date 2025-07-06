@@ -13,3 +13,5 @@ This project is a simple and responsive **React app** designed to display a list
   - Short explanation
 - 🎨 Styled with custom CSS 
 - ⚛️ Built using React functional components and props
+
+![image](https://github.com/user-attachments/assets/0be17470-485b-40f6-b3fe-2cf888795ceb)
