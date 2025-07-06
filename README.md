@@ -1,8 +1,16 @@
-# React + Vite
+# 📁 React Project Showcase App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a simple and responsive **React app** designed to display a list of projects dynamically using **JSON data**. It maps each project to a component that includes an image, title, explanation, and a detail link.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+
+- 🧾 Lists projects from a JSON file (`Data.js`)
+- 🖼️ Each project includes:
+  - Image preview
+  - Title
+  - Short explanation
+  - "Detail" link
+- 🎨 Styled with custom CSS 
+- ⚛️ Built using React functional components and props
